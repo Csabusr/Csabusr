@@ -1,5 +1,5 @@
 
-<table align="center" style="border-collapse:collapse; border: none;">
+<table align="center" style="border-collapse:collapse; border: none !important;">
 <tbody>
 <tr>
 <td>
@@ -19,7 +19,7 @@
 
 </table>
 
-<table align="center" style="border-collapse:collapse; border: none;">
+<table align="center" style="border-collapse:collapse; border: none !important;">
 <thead>
         <tr>
             <th colspan="2"><p style="text-align: center">
@@ -31,14 +31,10 @@
 <tbody style="border-style: none">
         <tr>
             <td>
-            <p>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Csabusr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="180" />
-            </p>
             </td>
             <td>
-            <p>&nbsp;
             <img src="https://github-readme-stats.vercel.app/api?username=Csabusr&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" height="180"/>
-            </p>
             </td>
         </tr>
     </tbody>
