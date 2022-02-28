@@ -1,5 +1,5 @@
 
-<table align="center">
+<table align="center" style="border-collapse:collapse; border: none;">
 <tbody>
 <tr>
 <td>
@@ -19,7 +19,7 @@
 
 </table>
 
-<table align="center">
+<table align="center" style="border-collapse:collapse; border: none;">
 <thead>
         <tr>
             <th colspan="2"><p style="text-align: center">
