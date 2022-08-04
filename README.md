@@ -4,8 +4,7 @@
 <tr>
 <td colspan="2">
     <i><b>Social Activeness</b></i>
-
-
+<br>
 <a href="https://www.facebook.com/csaba.fugedi/">
 <img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white">
 </a>
