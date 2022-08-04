@@ -19,7 +19,7 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2" >
 <i><b>Git Activeness</b></i>
 </td>
 </tr>
@@ -32,12 +32,12 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2" >
 <i><b>Knowledge and Technologies</b></i>
 </td>
 </tr>
 <tr style="border-collapse:collapse; border: none !important;">
-<td style="border-collapse:collapse; border: none !important;">
+<td colspan="2" style="border-collapse:collapse; border: none !important;">
 <img src="https://img.shields.io/badge/c++%20-%2314354C.svg?&style=for-the-badge&logo=c++&logoColor=white">
 <img src="https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/wpf%20-%2314354C.svg?&style=for-the-badge&logo=&logoColor=white">
