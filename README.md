@@ -1,53 +1,20 @@
 
-<table align="center">
-<tbody>
-<tr>
-<td colspan="2">
-    <i><b>Social Activeness</b></i>
-<br>
-<a href="https://www.facebook.com/csaba.fugedi/">
-<img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a href="https://twitter.com/FgediCsaba">
-<img src="https://img.shields.io/badge/twitter-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="mailto:fugedic@gmail.com">
-<img src="https://img.shields.io/badge/Outlook-%2314354C.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white">
-</a>
+<div class="container" align=center>
+<div class="row">
+<div class="col">
+  <img style="border-radius: 10px; padding-bottom:0px; margin-bottom:0px;" src="hello.svg" alt="">
+  <img style="border-radius: 10px; padding-top:0px; margin-top:0px;" src="BASED.png" alt="">
+</div>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Csabusr.visitor-badge)
-</td>
-</tr>
-<tr>
-<td>
+<div class="col">
+<h1>Git Activeness</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Csabusr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="350" />
+<img src="https://github-readme-stats.vercel.app/api?username=Csabusr&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="350"/>
+    
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jhc4sqkncn446f4ekei4izy&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21jhc4sqkncn446f4ekei4izy&redirect=true)
-</td>
-<td>
-
-![Discord Banner 2](https://discordapp.com/api/guilds/488813043275268108/widget.png?style=banner2)
-</td>
-</tr>
-<tr>
-<td colspan="2" >
-<i><b>Git Activeness</b></i>
-</td>
-</tr>
-<tr>
-<td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Csabusr&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" height="180" />
-</td>
-<td style="border-collapse:collapse; border: none !important;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Csabusr&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" height="180"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" >
-<i><b>Knowledge and Technologies</b></i>
-</td>
-</tr>
-<tr>
-<td colspan="2">
+</div>
+<div class="col">
+<h1>Knowledges and Technologies</h1>
 <img src="https://img.shields.io/badge/c++%20-%2314354C.svg?&style=for-the-badge&logo=c++&logoColor=white">
 <img src="https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/wpf%20-%2314354C.svg?&style=for-the-badge&logo=&logoColor=white">
@@ -79,11 +46,33 @@
 <img src="https://img.shields.io/badge/xigmanas-%2314354C.svg?&style=for-the-badge&logo=freebsd&logoColor=white">
 <img src="https://img.shields.io/badge/delphi-%2314354C.svg?&style=for-the-badge&logo=delphi&logoColor=white">
 <img src="https://img.shields.io/badge/Pascal-%2314354C.svg?&style=for-the-badge&logo=&logoColor=white">
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div class="col">
+<h1>Spotify playing</h1>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21jhc4sqkncn446f4ekei4izy&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21jhc4sqkncn446f4ekei4izy&redirect=true)
+</div>
+<div class="col">
+<h1>My community</h1>
+
+![Discord Banner 2](https://discordapp.com/api/guilds/488813043275268108/widget.png?style=banner2)
+
+</div>
+<h1>Social</h1>
+<a href="https://www.facebook.com/csaba.fugedi/">
+<img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://twitter.com/FgediCsaba">
+<img src="https://img.shields.io/badge/twitter-%2314354C.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="http://info.csabusr.tech">
+<img src="https://img.shields.io/badge/Webpage-%2314354C.svg?&style=for-the-badge&logo=&logoColor=white">
+</a>
+<a href="mailto:fugedic@gmail.com">
+<img src="https://img.shields.io/badge/Outlook-%2314354C.svg?&style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/f%C3%BCgedi-csaba/">
+<img src="https://img.shields.io/badge/LinkedIn-%2314354C.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
+<div>
